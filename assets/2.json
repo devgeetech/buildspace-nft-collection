@@ -1,0 +1,19 @@
+{
+  "name": "violet_serenity",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BUUECH1svBYkzTqrdjPkB2iqTZkdNXUK2LvnwEqwEbTL",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "gummy_kidneys",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BUUECH1svBYkzTqrdjPkB2iqTZkdNXUK2LvnwEqwEbTL",
+        "share": 100
+      }
+    ]
+  }
+}
